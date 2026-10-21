@@ -1,0 +1,15 @@
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\bin\Debug\net10.0-windows\Bai47_MDI.exe
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\bin\Debug\net10.0-windows\Bai47_MDI.deps.json
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\bin\Debug\net10.0-windows\Bai47_MDI.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\bin\Debug\net10.0-windows\Bai47_MDI.dll
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\bin\Debug\net10.0-windows\Bai47_MDI.pdb
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.dll
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\refint\Bai47_MDI.dll
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.pdb
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\ref\Bai47_MDI.dll
+D:\EPU\Nam 3\lap trinh dot net\21,10,2026\Bai47_MDI\Bai47_MDI\obj\Debug\net10.0-windows\Bai47_MDI.csproj.Up2Date
